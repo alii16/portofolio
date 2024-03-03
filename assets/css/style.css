@@ -11638,14 +11638,6 @@ pre .code {
   }
 }
 
-.contact .map {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-}
-
 .contact .contact-form-card,
 .contact .contact-info-card {
   padding: 35px;
