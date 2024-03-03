@@ -1,6 +1,6 @@
 # Portofolio
 
-[Demo](https://alii16.github.io/calculator/)
+[Demo](https://alii16.github.io/portofolio/)
 
 ## 🚀 How to Use
 
